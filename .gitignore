@@ -1,0 +1,7 @@
+_book
+node_modules
+content/work/*
+content/private/*
+docs/work/
+docs/private/
+.DS_Store

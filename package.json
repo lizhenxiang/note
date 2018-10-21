@@ -1,0 +1,14 @@
+{
+  "name": "note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gitbook build ./content ./docs",
+    "serve": "gitbook serve ./content ./docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
